@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { jqxGridComponent } from 'jqwidgets-framework/jqwidgets-ts/angular_jqxgrid';
 
 import { AppComponent } from './app.component';
-/*import { FantasiaComponent } from './fantasia/fantasia.component';*/
 import { HomeComponent } from './home/home.component';
 
 @NgModule({
